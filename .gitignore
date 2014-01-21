@@ -1,0 +1,7 @@
+install.sh
+test.sh
+clean.sh
+test.py
+build/
+dist/
+MANIFEST
