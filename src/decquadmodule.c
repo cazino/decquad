@@ -1,5 +1,8 @@
 #include <Python.h>
 
+#include "mpdecimal.h"
+
+
 static PyObject *
 dummy_meth(PyObject *self, PyObject *args)
 {
